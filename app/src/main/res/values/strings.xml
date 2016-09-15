@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ScribbleCam</string>
+
+    <string name="pick_fill_color">Change the background</string>
+    <string name="pick_draw_color">Change the draw color</string>
+
+    <string name="action_color_fill">Background Color</string>
+    <string name="action_draw_color">Drawing Color</string>
+    <string name="action_draw_width">Drawing width</string>
+    <string name="action_done">Done</string>
+
+    <string name="toast_need_permission_write_external">Need permission to write to external storage.</string>
+
+    <array name="draw_widths">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+        <item name="11">11</item>
+        <item name="12">12</item>
+        <item name="13">13</item>
+        <item name="14">14</item>
+        <item name="15">15</item>
+    </array>
+</resources>

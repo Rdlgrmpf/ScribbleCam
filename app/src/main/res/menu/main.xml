@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_draw_width"
+        android:orderInCategory="100"
+        android:title="@string/action_draw_width"
+        android:icon="@drawable/ic_edit_white_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_draw_color"
+        android:orderInCategory="100"
+        android:title="@string/action_draw_color"
+        android:icon="@drawable/ic_palette_white_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_color_fill"
+        android:orderInCategory="100"
+        android:title="@string/action_color_fill"
+        android:icon="@drawable/ic_format_color_fill_white_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_done"
+        android:orderInCategory="100"
+        android:title="@string/action_done"
+        android:icon="@drawable/ic_done_white_24dp"
+        app:showAsAction="always" />
+
+</menu>
