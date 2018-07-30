@@ -1,7 +1,7 @@
 # ScribbleCam
 ## License
 
-Privacy Friendly Notes is licensed under the GPLv3.
+Scribble Cam is licensed under the GPLv3.
 Copyright (C) 2016  Robin Morawetz
 
 This program is free software: you can redistribute it and/or modify
